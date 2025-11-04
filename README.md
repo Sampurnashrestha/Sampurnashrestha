@@ -17,8 +17,7 @@
 ### 🧰 Languages and Tools:
  
 <p align="center">
- <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" width="48" height="48" alt="After Effects" />
-  <img src="https://skillicons.dev/icons?i=c,java,react,html,css,js,photoshop,php,mysql,vscode,git,github,bootstrap&perline=8" />
+  <img src="https://skillicons.dev/icons?i=c,java,react,html,css,js,photoshop,ae,php,mysql,vscode,git,github,bootstrap&perline=8" />
  
 
 </p>
