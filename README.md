@@ -17,7 +17,7 @@
 ### 🧰 Languages and Tools:
  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,react,html,css,js,photoshop,ae,php,mysql,vscode,git,github,bootstrap&perline=8" />
+  <img src="https://skillicons.dev/icons?i=c,html,css,js,java,react,photoshop,ae,php,mysql,vscode,git,github,bootstrap&perline=8" />
  
 
 </p>
