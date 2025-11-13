@@ -9,7 +9,7 @@
 ---
 
 ### 🌐 Connect with me:
-<a href="www.linkedin.com/in/sampurna-shrestha-4238032aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prayush hada" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/sampurna-shrestha-4238032aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sampurna shrestha" height="30" width="40" /></a>
 
 
 ---
@@ -20,16 +20,6 @@
   <img src="https://skillicons.dev/icons?i=c,html,css,js,java,react,photoshop,ae,php,mysql,vscode,git,github,bootstrap&perline=8" />
  
 
-</p>
-
----
-
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sampurnashrestha&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sampurnashrestha&theme=tokyonight" alt="GitHub streak" />
 </p>
 
 ---
