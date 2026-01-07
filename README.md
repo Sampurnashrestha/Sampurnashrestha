@@ -4,8 +4,9 @@
 - 🎓 I’m a **5th Semester Student** at **Medhavi College**, affiliated with **Pokhara University**
 - 💻 I love to **solve coding problems** and **build modern web applications**
 - 🎨 I’m also a **Graphic Designer**
-- 🌐 Portfolio: **portfilo-mocha.vercel.app**
+- 🌐 Portfolio: [https://portfilo-mocha.vercel.app](https://portfilo-mocha.vercel.app)
 - 📫 How to reach me: **sampurnashrsth@gmail.com**
+
 
 
 ---
